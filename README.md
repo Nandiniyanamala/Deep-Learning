@@ -1,5 +1,4 @@
-DEEP LEARNING
-# Recoginization-of-handwritten-images
+# DEEP LEARNING
 Recognizing the handwritten images using the keras tensorflow models.
 Layers:
     1. Dropout
