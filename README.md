@@ -1,4 +1,4 @@
-# DEEP LEARNING
+# Recognizing Hand-Written images
 Recognizing the handwritten images using the keras tensorflow models.
 Layers:
     1. Dropout
