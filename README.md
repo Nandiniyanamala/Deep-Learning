@@ -1,0 +1,1 @@
+# Recoginization-of-handwritten-images
